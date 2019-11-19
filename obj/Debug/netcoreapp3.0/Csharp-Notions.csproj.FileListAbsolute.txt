@@ -1,0 +1,11 @@
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\bin\Debug\netcoreapp3.0\Csharp-Notions.exe
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\bin\Debug\netcoreapp3.0\Csharp-Notions.deps.json
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\bin\Debug\netcoreapp3.0\Csharp-Notions.runtimeconfig.json
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\bin\Debug\netcoreapp3.0\Csharp-Notions.runtimeconfig.dev.json
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\bin\Debug\netcoreapp3.0\Csharp-Notions.dll
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\bin\Debug\netcoreapp3.0\Csharp-Notions.pdb
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\obj\Debug\netcoreapp3.0\Csharp-Notions.csprojAssemblyReference.cache
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\obj\Debug\netcoreapp3.0\Csharp-Notions.AssemblyInfoInputs.cache
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\obj\Debug\netcoreapp3.0\Csharp-Notions.AssemblyInfo.cs
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\obj\Debug\netcoreapp3.0\Csharp-Notions.dll
+C:\Users\Joep\source\repos\Csharp-Notions\Csharp-Notions\obj\Debug\netcoreapp3.0\Csharp-Notions.pdb
